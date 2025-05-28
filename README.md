@@ -1,10 +1,6 @@
 # CloudyML_Journey
-Story of my journey in CloudyML as Data Analyst, complete information of My Attended Courses, Projects, Internship and Placement.
+This is my journey—from joining the course to finally cracking a placement. I’ll share everything: how I got in, the fee structure, why I chose this course over others, what modules were covered, how internships worked, and the eligibility for placements. Buckle up!
 
-About [Courses]()
+About [Courses & Projects]()
 
-About [Projects]()
-
-About [Internship]()
-
-About [Placement]()
+About [Internship & Placement]()
