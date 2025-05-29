@@ -3,4 +3,4 @@ This is my journeyâ€”from joining the course to finally cracking a placement. Iâ
 
 About [Courses & Projects](https://github.com/SSonwane26/CloudyML_Journey/tree/main/Course%26Projects#my-course-breakdown-from-zero-to-hero)
 
-About [Internship & Placement]()
+About [Internship & Placement](https://github.com/SSonwane26/CloudyML_Journey/blob/main/Internship&Placement/README.md#how-internships-work-at-cloudyml-the-real-deal)
