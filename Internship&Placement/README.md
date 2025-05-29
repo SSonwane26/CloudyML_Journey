@@ -73,7 +73,7 @@ Once inside, the training wheels come off. You're given **two real-world project
 * Focus: **Python, programming, and problem-solving**
 * Tasks: Data cleaning, feature engineering, and deriving insights to solve logistics problems
 
-#### 📊 **Project 2: [Ola Cabs](https://github.com/SSonwane26/CloudyML_Journey/blob/main/Internship%26Placement/Project%20Two/README.md#internship-project-2)**
+#### 📊 **Project 2: [Ola Cabs](https://github.com/SSonwane26/CloudyML_Journey/blob/main/Internship%26Placement/Project%20Two/README.md#about-project)**
 
 * Domain: **Ride-Hailing Service (Uber’s rival)**
 * Focus: **Power BI, Data Visualization & Storytelling**
