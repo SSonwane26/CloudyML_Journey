@@ -67,13 +67,13 @@ And finally, on a day I’ll never forget, I cleared both rounds and officially 
 
 Once inside, the training wheels come off. You're given **two real-world projects** to sharpen your tools:
 
-#### 🔧 **Project 1: [Porter]()**
+#### 🔧 **Project 1: [Porter](https://github.com/SSonwane26/CloudyML_Journey/blob/main/Internship%26Placement/Project%20One/README.md#about-project)**
 
 * Domain: **Logistics & Trucking Startup**
 * Focus: **Python, programming, and problem-solving**
 * Tasks: Data cleaning, feature engineering, and deriving insights to solve logistics problems
 
-#### 📊 **Project 2: [Ola Cabs]()**
+#### 📊 **Project 2: [Ola Cabs](https://github.com/SSonwane26/CloudyML_Journey/blob/main/Internship%26Placement/Project%20Two/README.md#internship-project-2)**
 
 * Domain: **Ride-Hailing Service (Uber’s rival)**
 * Focus: **Power BI, Data Visualization & Storytelling**
