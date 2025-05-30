@@ -42,7 +42,7 @@ Data Dictionary Overview
 - Total Business Value: Total business value acquired (negative indicates - cancellation/refund or car EMI adjustments)
 - Quarterly Rating: Quarterly rating of the driver (1-5, higher is better)
 
-For More Detail [zipfile]()
+For More Detail [File](https://github.com/SSonwane26/CloudyML_Journey/blob/main/Internship%26Placement/Project%20Two/Ola_Driver_Dataset.csv)
 
 **Data Analysis and Exploration**:
 
